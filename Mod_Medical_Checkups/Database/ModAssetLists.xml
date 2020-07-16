@@ -1,0 +1,206 @@
+<Database>
+<!-- 
+### Asset ### 
+This section adds my custom icons, decals, etc to the game. -->
+
+
+<!-- 
+### Skills ### 
+This section adds my custom logo to the department specific skills. -->
+
+
+<!-- 
+### Department ### 
+This section handles adding my custom department logos to the game. -->
+
+
+<!-- 
+### Diagnosis ### 
+This section handles adding my custom diagonsis icons to the game. -->
+
+<GameDBAsset ID="ASSET_JM_DIA_ICON001_LARGE"> <!-- Check up Icon 1 -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_jm_checkup1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_DIA_ICON001_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_jm_checkup1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_DIA_ICON002_LARGE"> <!-- Check up Icon 2 -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_jm_checkup2a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_DIA_ICON002_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_jm_checkup2b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_DIA_ICON003_LARGE"> <!-- Check up Icon 3 -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_jm_checkup3a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_DIA_ICON003_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_jm_checkup3b.png</File> 
+</GameDBAsset>
+
+<!-- 
+### Symptom ### 
+This section handles adding my custom symptom icons to the game. -->
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON001_LARGE"> <!-- Check Up Appointment -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_annual_appointmenta.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON001_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_annual_appointmentb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON002_LARGE"> <!-- Healthy Blood Cell Count -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_blood_cella.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON002_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_blood_cellb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON003_LARGE"> <!-- Blood Pressure -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_blood_pressurea.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON003_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_blood_pressureb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON004_LARGE"> <!-- Brain -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_braina.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON004_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_brainb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON005_LARGE"> <!-- Eye -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_eyea.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON005_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_eyeb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON006_LARGE"> <!-- GI tract -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_gastrointestinal_tracta.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON006_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_gastrointestinal_tractb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON007_LARGE"> <!-- Heart Rhythm -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_heart_rhythma.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON007_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_heart_rhythmb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON008_LARGE"> <!-- Heart -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_hearta.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON008_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_heartb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON009_LARGE"> <!-- Issues -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_issuesa.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON009_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_issuesb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON010_LARGE"> <!-- Kidneys -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_kidneysa.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON010_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_kidneysb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON011_LARGE"> <!-- Lungs -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_lungsa.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON011_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_lungsb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON012_LARGE"> <!-- Reflex -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_reflexa.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON012_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_reflexb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON013_LARGE"> <!-- Healthy Weight -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_weigha.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_SYM_ICON013_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_jm_weighb.png</File> 
+</GameDBAsset>
+
+<!-- 
+### Treatment ### 
+This section handles adding my custom treatment icons to the game. -->
+
+<GameDBAsset ID="ASSET_JM_TRT_ICON001_LARGE"> <!-- Lifestyle Change -->
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_jm_lifestyle_changesa.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_JM_TRT_ICON001_SMALL">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_jm_lifestyle_changesb.png</File> 
+</GameDBAsset>
+
+
+
+<!-- 
+### Examination ### 
+This section handles adding my custom examination icons to the game. -->
+
+
+</Database>

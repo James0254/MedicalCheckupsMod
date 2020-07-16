@@ -1,0 +1,159 @@
+<Database>
+	
+	<GameDBSymptom ID="SYM_JM_ANNUAL_CHECKUP_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_JM_SYM_ICON001_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_JM_SYM_ICON001_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_JM_SYM_ICON002_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_JM_SYM_ICON002_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_JM_DIA_ICON003_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_JM_DIA_ICON003_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_JM_DIA_ICON001_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_JM_DIA_ICON001_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_KIDNEY_CHECKUP_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_JM_DIA_ICON002_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_JM_DIA_ICON002_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_JM_DIA_ICON003_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_JM_DIA_ICON003_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+</Database>

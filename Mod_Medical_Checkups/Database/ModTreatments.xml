@@ -1,0 +1,116 @@
+<Database>
+	
+	<GameDBTreatment ID="TRT_JM_CHECKUP">
+    <AbbreviationLocID>TRT_JM_CHECKUP_DESC</AbbreviationLocID>
+    <DiscomfortLevel>Low</DiscomfortLevel>
+    <Procedure>
+        <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+
+        <RequiredSkillsToPrescribe>
+        <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+        </RequiredSkillsToPrescribe>
+
+        <RequiredDoctorQualificationList>
+        <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+        </RequiredDoctorQualificationList>
+
+        <RequiredEquipmentList>
+        <RequiredEquipment>
+        <Tag>receipt</Tag>
+        </RequiredEquipment>
+        </RequiredEquipmentList>
+
+
+        <RequiredRoomTags>
+        <Tag>receipt</Tag>
+        </RequiredRoomTags>
+
+        <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
+		<AnimationSetupSitting>
+                <AnimationNameIn>stand_physical_visual_exam_in</AnimationNameIn>
+                <AnimationNameIdle>stand_physical_visual_exam_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_physical_visual_exam_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <AnimationSetupLying>
+                <AnimationNameIn>stand_examination_in</AnimationNameIn>
+                <AnimationNameIdle>stand_examination_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_examination_out</AnimationNameOut>
+        </AnimationSetupLying>
+        </Procedure>
+        <TreatmentType>RECEIPT</TreatmentType>
+        <Cost>80</Cost>
+        <IconIndex>1685</IconIndex>
+        <DurationHours>0</DurationHours>
+		<CustomIconBigAssetRef>ASSET_JM_DIA_ICON003_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_JM_DIA_ICON003_SMALL</CustomIconSmallAssetRef>
+    </GameDBTreatment>
+	
+	<GameDBTreatment ID="TRT_JM_LIFESTYLE_CHANGES">
+    <AbbreviationLocID>TRT_JM_LIFESTYLE_CHANGES_DESC</AbbreviationLocID>
+    <DiscomfortLevel>Low</DiscomfortLevel>
+    <Procedure>
+        <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+
+        <RequiredSkillsToPrescribe>
+        <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+        </RequiredSkillsToPrescribe>
+
+        <RequiredDoctorQualificationList>
+        <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+        </RequiredDoctorQualificationList>
+
+        <RequiredEquipmentList>
+        <RequiredEquipment>
+        <Tag>receipt</Tag>
+        </RequiredEquipment>
+        </RequiredEquipmentList>
+
+
+        <RequiredRoomTags>
+        <Tag>receipt</Tag>
+        </RequiredRoomTags>
+
+        <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
+        </Procedure>
+        <TreatmentType>RECEIPT</TreatmentType>
+        <Cost>0</Cost>
+        <IconIndex>1685</IconIndex>
+        <DurationHours>0</DurationHours>
+		<CustomIconBigAssetRef>ASSET_JM_TRT_ICON001_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_JM_TRT_ICON001_SMALL</CustomIconSmallAssetRef>
+    </GameDBTreatment>
+	
+	<GameDBTreatment ID="TRT_JM_COURSE_OF_MEDICATIONS">
+    <AbbreviationLocID>TRT_JM_COURSE_OF_MEDICATIONS_DESC</AbbreviationLocID>
+    <DiscomfortLevel>Low</DiscomfortLevel>
+    <Procedure>
+        <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+
+        <RequiredSkillsToPrescribe>
+        <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+        </RequiredSkillsToPrescribe>
+
+        <RequiredDoctorQualificationList>
+        <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+        </RequiredDoctorQualificationList>
+
+        <RequiredEquipmentList>
+        <RequiredEquipment>
+        <Tag>receipt</Tag>
+        </RequiredEquipment>
+        </RequiredEquipmentList>
+
+
+        <RequiredRoomTags>
+        <Tag>receipt</Tag>
+        </RequiredRoomTags>
+
+        <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
+        </Procedure>
+        <TreatmentType>RECEIPT</TreatmentType>
+        <Cost>120</Cost>
+        <IconIndex>1887</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
+</Database>

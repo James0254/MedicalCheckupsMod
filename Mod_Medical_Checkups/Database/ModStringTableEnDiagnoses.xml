@@ -1,0 +1,74 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MEDCHECKUPS_DIAGNOSES">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+	  <!-- Diagnoses -->
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HCU</LocID>                         
+		 <Text>Annual Check-up</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HCU_DESCRIPTION</LocID>             
+		 <Text>An Annual Check-up is a yearly body check-up to see if there is any problems.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CCU</LocID>                         
+		 <Text>Cardiovascular Check-up</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CCU_DESCRIPTION</LocID>             
+		 <Text>An Cardiovascular Check-up is a check-up to see if there is any problems within the circulatory system.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NCU</LocID>                         
+		 <Text>Neurologic Check-up</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NCU_DESCRIPTION</LocID>             
+		 <Text>An Neurologic Check-up is a check-up to see if there is any problems within the nervous system.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GCU</LocID>                         
+		 <Text>Gastrointestinal Check-up</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_GCU_DESCRIPTION</LocID>             
+		 <Text>An Gastrointestinal Check-up is a check-up to see if there is any problems within the digestive system.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NECU</LocID>                         
+		 <Text>Kidney Evaluation</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NECU_DESCRIPTION</LocID>             
+		 <Text>An Kidney Evaluation is a check-up to see if there is any problems within the renal system.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_PCU</LocID>                         
+		 <Text>Lung Check-up</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_PCU_DESCRIPTION</LocID>             
+		 <Text>An Lung Check-up is a check-up to see if there is any problems within the repiratory system.</Text>  
+		</GameDBLocalizedString>
+		 
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+
