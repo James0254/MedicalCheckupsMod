@@ -1,0 +1,130 @@
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_MEDCHECKUPS_TREATMENTS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>Tianyi</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Treatments -->
+   
+        <GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP</LocID>                 
+		 <Text>全身检查</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP_DESC</LocID>     
+		 <Text>医生给病人做全身检查，也称为体检。</Text>  
+		</GameDBLocalizedString>
+
+	    <GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES</LocID>                 
+		 <Text>生活方式改变</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES_DESC</LocID>     
+		 <Text>医生建议病人改变他们的生活方式，使之更加活跃和健康。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS</LocID>                 
+		 <Text>一个疗程的药物/补充剂</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS_DESC</LocID>     
+		 <Text>医生给病人一个疗程的药物治疗或补充治疗现有的疾病，小问题或紊乱。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPECIALIST_BOOKING</LocID>                 
+		 <Text>专家预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPECIALIST_BOOKING_DESC</LocID>     
+		 <Text>医生把病人介绍给专家治疗他们的疾病。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COUNSELING</LocID>                 
+		 <Text>咨询</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COUNSELING_DESC</LocID>     
+		 <Text>咨询是一种谈话疗法，包括一位训练有素的治疗师倾听你的心声，帮助你找到处理情绪问题的方法。有时“咨询”一词通常指谈话疗法，但咨询本身也是一种疗法。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_WARD_ADMIT</LocID>                 
+		 <Text>住进病房</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_WARD_ADMIT_DESC</LocID>     
+		 <Text>由于疾病的严重性或为了观察病人，医生把病人送进病房。</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MMR_VACCINATION</LocID>                 
+		 <Text>风疹疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_INFLU_VACCINATION</LocID>                 
+		 <Text>流感疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_VARICL_VACCINATION</LocID>                 
+		 <Text>水痘疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_DTAP_VACCINATION</LocID>                 
+		 <Text>百日咳疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_PNEUMOCC_VACCINATION</LocID>                 
+		 <Text>肺炎疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_ANTHRAX_VACCINATION</LocID>                 
+		 <Text>炭疽疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_EBOLA_VACCINATION</LocID>                 
+		 <Text>埃博拉疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_DENGUE_VACCINATION</LocID>                 
+		 <Text>登革热疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_TB_VACCINATION</LocID>                 
+		 <Text>结核病疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MALARIA_VACCINATION</LocID>                 
+		 <Text>疟疾疫苗</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COVID_VACCINATION</LocID>                 
+		 <Text>COVID-19疫苗-实验结核病疫苗</Text>  
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
