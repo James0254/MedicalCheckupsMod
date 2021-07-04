@@ -23,12 +23,23 @@ To have this mod in your Project Hospital Game, put the Mod_Medical_Checkups in
 
 Project Hospital\ProjectHospital_Data\StreamingAssets\Addons\
 
-and you should see the mod name appear in the bottom left corner like this
+and you should see the mod name appear in the bottom left corner of the game like this
 
 
 Medical Checkups (By James B)
 
 ============================== Changelog ==============================
+
+==0.0.5.0v==
+ADDITIONS:
+Added COVID Checkups and Vaccine Followups
+Added COVID Vaccinations such as the AstraZeneca Vaccine
+Added tons of icons, symptoms, exams and treatments alongside the diagnoses
+Added Czech
+Added Hungarian
+
+BUG FIXES:
+Insulin Therapy Bug
 
 ==Translation update==
 
